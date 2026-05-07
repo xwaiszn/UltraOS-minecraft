@@ -1,7 +1,7 @@
 -- installer.lua
 -- Run this once on a fresh CC:Tweaked computer to install CCOS
 
-local BASE = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main"
+local BASE = "https://github.com/xwaiszn/UltraOS-minecraft"
 
 local FILES = {
     "startup.lua",
